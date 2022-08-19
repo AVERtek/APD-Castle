@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h1><b> “Discover How Our Castle Resort Living Starts New Fairytales!”</b></h1> <!-- Loads <model-viewer> for old browsers like IE11: -->
+  <h1><b> "Your Home is Your Castle; Discover Our Resort Living Fairytale!"</b></h1> <!-- Loads <model-viewer> for old browsers like IE11: -->
   <script nomodule="" src="https://unpkg.com/@google/model-viewer/dist/model-viewer-legacy.js">
   </script>
 
