@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h1><b> "Begin a New Fairytale Life, Turn a New Page & Change Castles!" </b></h1> <!-- Loads <model-viewer> for old browsers like IE11: -->
+  <h1><b> "Begin a New Fairytale Life, Turn a New Page by Changing Castles!" </b></h1> <!-- Loads <model-viewer> for old browsers like IE11: -->
   <script nomodule="" src="https://unpkg.com/@google/model-viewer/dist/model-viewer-legacy.js">
   </script>
 
