@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h1><b> "Begin a New Fairytale Life, Turn the Page by Changing Castles!" </b></h1> <!-- Loads <model-viewer> for old browsers like IE11: -->
+  <h1><b> "Begin a New Fairytale Life, Turn the Page with a New Castle!" </b></h1> <!-- Loads <model-viewer> for old browsers like IE11: -->
   <script nomodule="" src="https://unpkg.com/@google/model-viewer/dist/model-viewer-legacy.js">
   </script>
 
@@ -20,7 +20,7 @@
   <!-- OPTIONAL: Include prismatic.js for Magic Leap support -->
   <!--<script src="https://unpkg.com/@magicleap/prismatic/prismatic.min.js"></script>-->
 
-<model-viewer id="reveal" loading="eager" id="paused-change-demo" camera-controls autoplay animation-name="TheLife" ar shadow-intensity="1" src="ModelsCastle/scene.gltf" ar="" ar-modes="scene-viewer webxr quick-look" ios-src="Medieval_Fantasy_Book.usdz" alt="We Wrote the Book on Home & Auto Protection" ar-scale="auto" camera-controls="" style="width: 95%; height: 400px" exposure="0.5"> <button slot="ar-button" style="background-color: white; border-radius: 8px; border: 1 px solid black; position: absolute; top: 20px; right: 20px; ">
+<model-viewer id="reveal" loading="eager" id="paused-change-demo" camera-controls autoplay animation-name="TheLife" ar shadow-intensity="1" src="ModelsCastle/scene.gltf" ar="" ar-modes="scene-viewer webxr quick-look" ios-src="Medieval_Fantasy_Book.usdz" alt="We Wrote the Book on Home & Auto Protection" ar-scale="auto" camera-controls="" style="width: 75%; height: 400px" exposure="0.5"> <button slot="ar-button" style="background-color: white; border-radius: 8px; border: 1 px solid black; position: absolute; top: 20px; right: 20px; ">
       👋 AR Click Here
   </button>
 </model-viewer>
