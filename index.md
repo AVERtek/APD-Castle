@@ -1,6 +1,4 @@
-<div style="text-align: center;">
-# "It’s Time to Rewrite Your Fairytale, Modernize Your Castle with Resort Style Living!" <!-- Loads <model-viewer> for old browsers like IE11: -->
-</div>
+<div style="text-align: center;"> # "It’s Time to Rewrite Your Fairytale, Modernize Your Castle with Resort Style Living!" <!-- Loads <model-viewer> for old browsers like IE11: --> </div>
   <script nomodule="" src="https://unpkg.com/@google/model-viewer/dist/model-viewer-legacy.js">
   </script>
   
