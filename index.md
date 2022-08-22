@@ -1,6 +1,9 @@
+
 # "It’s Time to Rewrite Your Fairytale, Modernize Your Castle with Resort Style Living!" <!-- Loads <model-viewer> for old browsers like IE11: -->
+
   <script nomodule="" src="https://unpkg.com/@google/model-viewer/dist/model-viewer-legacy.js">
   </script>
+  
   <!-- The following libraries and polyfills are recommended to maximize browser support -->  
   <!-- REQUIRED: Web Components polyfill to support Edge and Firefox < 63 -->
   <script src="https://unpkg.com/@webcomponents/webcomponentsjs/webcomponents-loader.js"></script>
