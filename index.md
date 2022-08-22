@@ -1,8 +1,6 @@
-<p align="center">
-  <h1style="text-align: center;" markdown="1"><b> "It’s Time to Rewrite Your Fairytale, Modernize Your Castle with Resort Style Living!"</b></h1> <!-- Loads <model-viewer> for old browsers like IE11: -->
+# "It’s Time to Rewrite Your Fairytale, Modernize Your Castle with Resort Style Living!" <!-- Loads <model-viewer> for old browsers like IE11: -->
   <script nomodule="" src="https://unpkg.com/@google/model-viewer/dist/model-viewer-legacy.js">
   </script>
-</p>
   <!-- The following libraries and polyfills are recommended to maximize browser support -->  
   <!-- REQUIRED: Web Components polyfill to support Edge and Firefox < 63 -->
   <script src="https://unpkg.com/@webcomponents/webcomponentsjs/webcomponents-loader.js"></script>
