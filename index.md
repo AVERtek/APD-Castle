@@ -79,7 +79,7 @@
       }
    </script>
 
-<model-viewer id="reveal" loading="eager" id="paused-change-demo" camera-controls camera-orbit="0deg 45deg 120m" autoplay animation-name="TheLife" ar shadow-intensity="1" src="ModelsCastle/scene.gltf" ar="" ar-modes="scene-viewer webxr quick-look" ios-src="Medieval_Fantasy_Book.usdz" alt="We Wrote the Book on Home & Auto Protection" ar-scale="auto" camera-controls="" style="width: 100%; height: 500px" exposure="0.5"> <button slot="ar-button" style="background-color: white; border-radius: 8px; border: 1 px solid black; position: absolute; top: 20px; right: 20px; ">
+<model-viewer id="reveal" loading="eager" id="paused-change-demo" camera-controls camera-orbit="0deg 45deg 120m" autoplay animation-name="TheLife" ar shadow-intensity="1" src="ModelsCastle/scene.gltf?sound=Sound/Upbeat Motivating Indie Folk.mp3" ar="" ar-modes="scene-viewer webxr quick-look" ios-src="Medieval_Fantasy_Book.usdz" alt="We Wrote the Book on Home & Auto Protection" ar-scale="auto" camera-controls="" style="width: 100%; height: 500px" exposure="0.5"> <button slot="ar-button" style="background-color: white; border-radius: 8px; border: 1 px solid black; position: absolute; top: 20px; right: 20px; ">
       👋 AR Click Here
   </button>
 </model-viewer>
@@ -91,7 +91,7 @@
               <p align="center">
               <span>
               <audio controls autoplay loop id="sound">
-                <source src="Sound/Dodger Dance.mp3"/>
+                <source src="Sound/Upbeat Motivating Indie Folk.mp3"/>
               </audio
             ></span> 
              </p>
