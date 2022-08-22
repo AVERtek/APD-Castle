@@ -1,5 +1,5 @@
-## "IT'S TIME TO REWRITE THE FAIRYTALE" <!-- Loads <model-viewer> for old browsers like IE11: -->
-  <h1 style="text-align: center;" markdown="1"> Modernize Your Castle with Resort Style Living!</h1>
+  # "REWRITE YOUR OWN FAIRYTALE" <!-- Loads <model-viewer> for old browsers like IE11: -->
+  <h1 style="text-align: center;" markdown="1"> It's Time to Modernize Your Castle with Resort Style Living!</h1>
   <script nomodule="" src="https://unpkg.com/@google/model-viewer/dist/model-viewer-legacy.js">
   </script>
   
